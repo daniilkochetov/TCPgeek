@@ -1,0 +1,36 @@
+Starting TCPgeek_rt with the configuration file: ./TCPgeek_rt.conf
+Logging as per /root/eclipse-workspace/TCPgeek/TCPgeek_logging.conf
+2024-08-12 15:50:23,242 [INFO] BPF filter expression is ''
+2024-08-12 15:50:23,242 [INFO] Granularity is 60 seconds
+2024-08-12 15:50:23,242 [INFO] Maximum number of simultaneously processed TCP sessions is 100000
+2024-08-12 15:50:23,242 [INFO] Idle timeout for TCP session is 300 seconds
+2024-08-12 15:50:23,242 [INFO] Deduplication buffer size is 1024 packets
+2024-08-12 15:50:23,242 [INFO] Deduplication timeout is 100 milliseconds
+2024-08-12 15:50:23,242 [INFO] Pcap packet buffer timeout is 1000 milliseconds
+2024-08-12 15:50:23,242 [INFO] Pcap buffer size is 10485760 bytes
+2024-08-12 15:50:23,242 [INFO] Source: enp0s3
+2024-08-12 15:50:23,242 [INFO] Statistics Files will be owned by tcpgeek:tcpgeek
+2024-08-12 15:50:23,267 [WARN] Debug mode for each packet is set on 'packetLog' logger, processing will take additional time
+2024-08-12 15:50:23,268 [INFO] Starting capture
+2024-08-12 15:50:28,393 [INFO] Active TCP Sessions count is 0, active UDP Sessions count is 0, average cycles packet processing is 0, 0 packets were analyzed
+2024-08-12 15:50:28,393 [DEBUG] Statistical records to write: 0
+2024-08-12 15:50:28,393 [DEBUG] Average TCP packet debug0 cycles is 0, 0 packets were analyzed
+2024-08-12 15:50:28,393 [DEBUG] Average TCP packet debug1 cycles is 0, 0 packets were analyzed
+2024-08-12 15:50:28,393 [DEBUG] Average TCP packet debug2 cycles is 0, 0 packets were analyzed
+2024-08-12 15:50:28,393 [INFO] CPU usage 0.193798%, Virtual Memory Usage 165340Kb, Physical Memory Usage 4972Kb
+2024-08-12 15:50:28,394 [INFO] In total libpcap captured 0 packets, 0 packets were dropped at the interface, 0 packets were dropped at the OS buffer
+2024-08-12 15:50:28,394 [INFO] 0 idle TCP sessions were aggregated and erased
+2024-08-12 15:50:28,394 [INFO] 0 idle UDP sessions were aggregated and erased
+2024-08-12 15:50:28,402 [DEBUG] Aggregation completed in 13844963 cycles
+2024-08-12 15:50:28,402 [INFO] Stopping capture with 0 TCP sessions and 0 UDP on monitoring
+2024-08-12 15:50:28,402 [INFO] 0 idle TCP sessions were aggregated and erased
+2024-08-12 15:50:28,402 [INFO] 0 idle UDP sessions were aggregated and erased
+2024-08-12 15:50:28,406 [INFO] 0 packets has been received
+2024-08-12 15:50:28,406 [INFO] 0 packets were dropped at the interface
+2024-08-12 15:50:28,406 [INFO] 0 packets were dropped at the OS buffer
+2024-08-12 15:50:28,406 [INFO] Control thread stopped
+2024-08-12 15:50:28,422 [INFO] Sniffer has been gracefully shut
+2024-08-12 15:50:28,423 [INFO] Capture stopped with -2 exit code
+2024-08-12 15:50:28,423 [INFO] Alright then
+2024-08-12 15:50:28,423 [INFO] ***********************************************************
+

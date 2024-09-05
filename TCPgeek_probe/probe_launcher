@@ -1,0 +1,4 @@
+#!/bin/sh -
+
+pkill -f TCPgeek_probe
+./Release/TCPgeek_probe

@@ -1,0 +1,14 @@
+[Unit]
+Description=TCPgeek probe server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+WorkingDirectory=/opt/apa/TCPgeek
+ExecStart=/opt/apa/TCPgeek/probe_launcher
+ExecStop=/opt/apa/TCPgeek/probe_stopper
+SyslogIdentifier=TCPgeek_probe
+StandardOutput=null
+
+[Install]
+WantedBy=multi-user.target

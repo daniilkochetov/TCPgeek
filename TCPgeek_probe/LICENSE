@@ -1,0 +1,25 @@
+    Copyright (C) 2024  Daniil Kochetov (unixguide@narod.ru)
+
+    TCPgeek is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    
+    The software uses the following open source libraries and source code examples:
+    - LIBPCAP 1.x.y: created by The Tcpdump Group <https://www.tcpdump.org/> distributed under BSD license
+    - Log for C++ (short name: log4cpp): Copyright (C) 2000-2002 LifeLine Networks bv,
+      Copyright (C) 2000-2002 Bastiaan Bakker 
+      <https://log4cpp.sourceforge.net/>
+      distributed under Lesser General Public License
+    - Configuration file management (ConfigFile.h and ConfigFile.cpp): Copyright (C) 2002-2004 René Nyffenegger
+      <https://renenyffenegger.ch/notes/development/libraries/cpp/read-configuration-files/>
+
+    Additional License files can be found in the 'lib' folder located in the same directory as this LICENSE file

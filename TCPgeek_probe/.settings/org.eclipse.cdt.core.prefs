@@ -1,0 +1,16 @@
+doxygen/doxygen_new_line_after_brief=true
+doxygen/doxygen_use_brief_tag=false
+doxygen/doxygen_use_javadoc_tags=true
+doxygen/doxygen_use_pre_tag=false
+doxygen/doxygen_use_structural_commands=false
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1263014626/LANG/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1263014626/LANG/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1263014626/LANG/value=ru_RU.UTF-8\:en
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1263014626/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1263014626/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.807702511/LANG/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.release.807702511/LANG/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.release.807702511/LANG/value=ru_RU.UTF-8\:en
+environment/project/cdt.managedbuild.config.gnu.exe.release.807702511/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.807702511/appendContributed=true
